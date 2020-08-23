@@ -3,11 +3,11 @@
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python2
-$ git clone https://github.com/V4N654T/fb-hacker
+$ git clone https://github.com/Sultantech/real
 $ cd fb-hacker
-$ python2 fb.py
+$ python2 sultan.py
 ```
 # thanks to
-#### All members D4RKN355 T34M
-#### Fachri Yuzzy
-#### Allah SWT
+#### All members Sultan team
+#### Sultan Ahmed
+#### ALLAH is one
